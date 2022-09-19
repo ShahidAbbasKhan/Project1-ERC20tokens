@@ -24,10 +24,14 @@
       address by the owner through Approve Function.
 - mintTokens Function:
 
-      only Owner of the Contract can call this function to Mint more Tokens then token supply also will be increased and owner Token balance will be increased as amount of the token as minted.
+      only Owner of the Contract can call this function to Mint more Tokens then token
+      supply also will be increased and owner Token balance will be increased as amount
+      of the token as minted.
 - burnTokens Function:
 
-      only Owner of the Contract can call this function to burn Tokens then token supply also will be decreased and owner Token balance will be decreased as amount of the token is burned.
+      only Owner of the Contract can call this function to burn Tokens then token supply
+      also will be decreased and owner Token balance will be decreased as amount of the
+      token is burned.
 - transfer Function:
 
       Through this function a address having sufficent tokens can send tokens
