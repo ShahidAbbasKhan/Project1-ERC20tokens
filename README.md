@@ -1,6 +1,6 @@
 # ERC20fixedSupply
  ## TokenName-ShahidNiazi
- ##Contract-Address:0x74A741Bb5a2563A4b33FAAD661aD058A6004Aa61
+ ## Contract-Address:0x74A741Bb5a2563A4b33FAAD661aD058A6004Aa61
 
 - tokenName Function:
 
