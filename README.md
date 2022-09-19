@@ -1,4 +1,4 @@
-# ERC20fixedSupply
+# ERC20Mintable
  ## TokenName-My Gold Token
  ## Contract-Address:0x8484e9004bc61a722ac8941cf920baf4f1a47670
  ## Using Ropstem Test Net
