@@ -1,4 +1,4 @@
-# ERC20fixedSupply
+# ERC20Mintable
  ## TokenName-My Silver Token
  ## Contract-Address:0xE3843612dCbF49feE7e048C1DDF655e7b618e40f
  ## Using Ropstem Test Net
