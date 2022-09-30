@@ -45,14 +45,14 @@ contract ERC20Mintable1{
         return allowed[_Owner][_spender];
     }
     function mintTokens(uint _tokens) public onlyOwner returns(bool){
-        t_Supply=t_Supply+ _tokens*(10**uint(tDecimal));
+        t_Supply=t_Supply+ _tokens;
         balances[msg.sender] += _tokens;
         emit Transfer(address(0), msg.sender, _tokens);
         return true;
           
     }
     function burnTokens(uint _tokens) public onlyOwner returns(bool){
-        t_Supply=t_Supply- _tokens*(10**uint(tDecimal));
+        t_Supply=t_Supply- _tokens;
         balances[msg.sender] -= _tokens;
         emit Transfer(msg.sender, address(0), _tokens);
         return true;
